@@ -1,3 +1,3 @@
 #!/usr/bin/ruby
-puts "Hello, Ruby Programmer"
+puts "Hello again, Ruby Programmer"
 puts "It is now #{Time.now}"
